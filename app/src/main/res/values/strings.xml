@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernPluck</string>
+    <string name="action_settings">Settings</string>
+    <!--  used for shared preferences  -->
+    <string name="spreference_key" translatable="false">modernpluck_preference_file</string>
+    <string name="threshold_key" translatable="false">threshold_shp_key</string>
+</resources>
